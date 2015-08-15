@@ -11,7 +11,7 @@ function make_mac() {
             }
             else {
                 var nmbr = Math.floor(Math.random() * (9 - 0 + 1)) + 0;
-                current_value += nmbr
+                current_value += nmbr;
             }
 
         }
